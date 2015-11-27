@@ -13,3 +13,17 @@ opkg install python-codecs
 opkg install python-logging
 opkg install python-openssl
 opkg install openssh-sftp-server
+
+
+Source Code:
+https://github.com/youngsoul/OmegaGPIO
+
+
+Credits:
+From user Dan L
+https://community.onion.io/topic/40/simple-python-wrapper-and-demo
+
+Dan L - wrote the initial implementation of the GPIOHelper.  As Isaac Newton
+once said, "If I have seen further, it is by standing on the shoulders of giants"
+
+Thanks Dan L for the initial implementation.
