@@ -15,6 +15,10 @@ opkg install python-openssl
 opkg install openssh-sftp-server
 
 
+Test:
+fast-gpio set 8 1
+fast-gpio set 8 0
+
 Source Code:
 https://github.com/youngsoul/OmegaGPIO
 
